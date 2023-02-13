@@ -12,7 +12,6 @@
 <!-- - 💻 Last Project [USAVisaSlot.com](https://www.usavisaslot.com/) -->
 - 📫 How to reach me **deeppatel.official99@gmail.com**
 
-<!-- - 📄 My Resume [Arth Jani](https://github.com/arthjani/arth_jani_resume/blob/main/Arth_Resume.pdf) -->
 
 
 <h3 align="left">Connect with me:</h3>
